@@ -1,4 +1,4 @@
-### **Image-Filters**
+#### **Image-Filters**
 Quick image filters
 
 A console-based image filter. 
