@@ -15,4 +15,6 @@ Supported filters include:
  - SMOOTH_MORE
  - SHARPEN
 
-You can upload image from <code>**url**</code> or from you computer using an absolute <code>**path**</code>.
+You can upload an image you would like to filter from <code>**url**</code> or from you computer using an absolute <code>**path**</code>.
+
+The program automatically <code>**shows**</code> the filtered image and <code>**saves**</code> it to your current working directory.
