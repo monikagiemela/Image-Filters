@@ -1,5 +1,5 @@
-#### **Image-Filters**
-Quick image filters
+# **Image-Filters**
+Quick image filters  :camera_flash: :city_sunset:
 
 A console-based image filter. 
 
